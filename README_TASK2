@@ -1,0 +1,27 @@
+# Stock Price Prediction (Short-Term)
+
+## Objective
+Predict next day closing price using historical stock data.
+
+## Dataset
+Yahoo Finance data using yfinance library.
+
+## Features Used
+- Open
+- High
+- Low
+- Volume
+
+## Models Applied
+- Linear Regression
+- Random Forest
+
+## Results
+- Random Forest performed better than Linear Regression.
+- Model captured trend but struggled with sudden changes.
+
+## Tools Used
+- Python
+- Google Colab
+- scikit-learn
+- yfinance
