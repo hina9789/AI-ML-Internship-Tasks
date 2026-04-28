@@ -1,0 +1,18 @@
+# Heart Disease Prediction
+
+## Objective
+Predict heart disease risk using patient medical data.
+
+## Dataset
+Heart Disease UCI Dataset
+
+## Model Used
+- Logistic Regression
+
+## Evaluation Metrics
+- Accuracy
+- Confusion Matrix
+- ROC-AUC Score
+
+## Results
+The model achieved good prediction performance and identified key medical features influencing heart disease risk.
